@@ -1,1 +1,4 @@
 plugins/
+
+.backup
+.DS_Store

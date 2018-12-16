@@ -1,5 +1,5 @@
-#Terraform
+# Terraform
 
-##Installing Terraform
+## Installing Terraform
 
 brew install terraform
